@@ -13,6 +13,6 @@ Where:
 - **v** is the speed of sound.
 - **t** represents the time taken for the wave to travel to the object and back.
 
-This distance measurement can then be used for various applications, such as detecting fuel levels or detecting potential theft.
+This distance measurement can then be used for various applications, such as detecting fuel levels or detecting potential theft. As the distance travelled by the wave 's' is twice the distance required the required distance 'D = s/2'
 
 ![Prototype](./images/Fuellevel.jpeg)
