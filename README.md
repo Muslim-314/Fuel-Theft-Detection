@@ -1,3 +1,3 @@
 ## Fuel Theft Detection
-![Prototype](./FTD.jpeg)
+![Prototype](./images/FTD.jpeg)
 
