@@ -3,4 +3,16 @@ This code implements a fuel theft detection system using an ESP8266 microcontrol
 ![Prototype](./images/FTD.jpeg)
 
 ### Fuel level measurement
+The HC-SR04 ultrasonic sensor works by transmitting an ultrasonic wave and then receiving the reflected wave after it bounces off an object. The microcontroller calculates the duration between the transmission and reception of the wave. Using this time, the distance traveled by the wave is computed with the formula:
+
+`s = vt`
+
+Where:
+
+- **s** is the distance traveled by the wave.
+- **v** is the speed of sound.
+- **t** represents the time taken for the wave to travel to the object and back.
+
+This distance measurement can then be used for various applications, such as detecting fuel levels or detecting potential theft.
+
 ![Prototype](./images/Fuellevel.jpeg)
